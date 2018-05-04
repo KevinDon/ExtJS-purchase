@@ -1,0 +1,11 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:shiro="http://www.pollix.at/thymeleaf/shiro">
+<head th:include="public :: subHeadForNothing (文件预览-文件不存在)"></head>
+<body>
+<div class="preview-body">
+    <div id="viewerPlaceHolder">
+        <p>文件没找到：<span th:text="${fileName}"></span></p>
+    </div>
+</div>
+</body>
+</html>

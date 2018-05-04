@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:shiro="http://www.pollix.at/thymeleaf/shiro">
+<head th:include="public :: subHead (文件预览-内页)"></head>
+
+<body>
+    <div class="preview-body">
+        <a id="viewerPlaceHolder">
+            <p>此文件类型不支持预览，请直接下载!</p>
+            <a th:href="/files/download?id=${fileId}" target="_blank">点击这里下载</a>
+        </a>
+    </div>
+</body>
+</html>

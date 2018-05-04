@@ -1,0 +1,204 @@
+2018-05-04 00:00:00.001 [threadPoolTaskScheduler-1] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-1:127]barcode同步任务开始执行
+2018-05-04 00:00:00.001 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-6:134]产品组合同步任务开始执行
+2018-05-04 00:00:00.001 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-5:133]邮件收取任务开始执行
+2018-05-04 00:00:00.001 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-2:129]订单报表开始同步
+2018-05-04 00:00:00.001 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-3:131]订单周期报表开始同步
+2018-05-04 00:00:00.001 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-4:132]产品组合同步-PARENT任务开始执行
+2018-05-04 00:00:00.070 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-4:132]产品组合同步-PARENT任务执行结束
+2018-05-04 00:00:01.161 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-3:131]订单周期报表同步结束
+2018-05-04 00:00:06.656 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-2:129]订单报表同步结束
+2018-05-04 00:01:04.295 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-6:134]产品组合同步任务执行结束
+2018-05-04 00:01:17.108 [threadPoolTaskScheduler-1] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-1:127]barcode同步任务执行结束
+2018-05-04 00:03:31.714 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-5:133]邮件收取任务执行结束
+2018-05-04 00:29:59.953 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-5:133]邮件收取任务开始执行
+2018-05-04 00:29:59.956 [threadPoolTaskScheduler-1] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-1:127]barcode同步任务开始执行
+2018-05-04 00:29:59.956 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-3:131]订单周期报表开始同步
+2018-05-04 00:29:59.956 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-8:225]产品组合同步任务开始执行
+2018-05-04 00:29:59.956 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-2:129]订单报表开始同步
+2018-05-04 00:29:59.960 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-9:251]产品组合同步-PARENT任务开始执行
+2018-05-04 00:30:00.007 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-9:251]产品组合同步-PARENT任务执行结束
+2018-05-04 00:30:00.478 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-3:131]订单周期报表同步结束
+2018-05-04 00:30:01.539 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-8:225]产品组合同步任务执行结束
+2018-05-04 00:30:04.194 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-5:133]邮件收取任务执行结束
+2018-05-04 00:30:06.488 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-2:129]订单报表同步结束
+2018-05-04 00:31:13.956 [threadPoolTaskScheduler-1] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-1:127]barcode同步任务执行结束
+2018-05-04 01:00:00.023 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-10:263]barcode同步任务开始执行
+2018-05-04 01:00:00.023 [threadPoolTaskScheduler-7] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-7:220]产品组合同步-PARENT任务开始执行
+2018-05-04 01:00:00.024 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-4:132]产品组合同步任务开始执行
+2018-05-04 01:00:00.024 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-9:251]邮件收取任务开始执行
+2018-05-04 01:00:00.024 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-6:134]订单周期报表开始同步
+2018-05-04 01:00:00.024 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-3:131]订单报表开始同步
+2018-05-04 01:00:00.035 [threadPoolTaskScheduler-7] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-7:220]产品组合同步-PARENT任务执行结束
+2018-05-04 01:00:00.531 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-6:134]订单周期报表同步结束
+2018-05-04 01:00:01.486 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-4:132]产品组合同步任务执行结束
+2018-05-04 01:00:04.078 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-9:251]邮件收取任务执行结束
+2018-05-04 01:00:06.058 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-3:131]订单报表同步结束
+2018-05-04 01:01:17.881 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-10:263]barcode同步任务执行结束
+2018-05-04 01:29:59.999 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-10:263]barcode同步任务开始执行
+2018-05-04 01:30:00.001 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-4:132]邮件收取任务开始执行
+2018-05-04 01:30:00.001 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-6:134]订单周期报表开始同步
+2018-05-04 01:30:00.001 [threadPoolTaskScheduler-7] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-7:220]产品组合同步任务开始执行
+2018-05-04 01:30:00.001 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-9:251]订单报表开始同步
+2018-05-04 01:30:00.001 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-8:225]产品组合同步-PARENT任务开始执行
+2018-05-04 01:30:00.013 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-8:225]产品组合同步-PARENT任务执行结束
+2018-05-04 01:30:00.480 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-6:134]订单周期报表同步结束
+2018-05-04 01:30:01.416 [threadPoolTaskScheduler-7] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-7:220]产品组合同步任务执行结束
+2018-05-04 01:30:04.232 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-4:132]邮件收取任务执行结束
+2018-05-04 01:30:05.993 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-9:251]订单报表同步结束
+2018-05-04 01:31:13.221 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-10:263]barcode同步任务执行结束
+2018-05-04 02:00:00.023 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-10:263]barcode同步任务开始执行
+2018-05-04 02:00:00.024 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-6:134]订单周期报表开始同步
+2018-05-04 02:00:00.024 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-8:225]产品组合同步-PARENT任务开始执行
+2018-05-04 02:00:00.024 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-5:133]产品组合同步任务开始执行
+2018-05-04 02:00:00.024 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-2:129]邮件收取任务开始执行
+2018-05-04 02:00:00.024 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-3:131]订单报表开始同步
+2018-05-04 02:00:00.032 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-8:225]产品组合同步-PARENT任务执行结束
+2018-05-04 02:00:00.434 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-6:134]订单周期报表同步结束
+2018-05-04 02:00:01.621 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-5:133]产品组合同步任务执行结束
+2018-05-04 02:00:04.443 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-2:129]邮件收取任务执行结束
+2018-05-04 02:00:08.463 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-3:131]订单报表同步结束
+2018-05-04 02:01:14.196 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-10:263]barcode同步任务执行结束
+2018-05-04 02:29:59.865 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-10:263]barcode同步任务开始执行
+2018-05-04 02:29:59.866 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-5:133]订单报表开始同步
+2018-05-04 02:29:59.866 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-8:225]产品组合同步任务开始执行
+2018-05-04 02:29:59.868 [threadPoolTaskScheduler-7] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-7:220]邮件收取任务开始执行
+2018-05-04 02:29:59.868 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-3:131]产品组合同步-PARENT任务开始执行
+2018-05-04 02:29:59.868 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-6:134]订单周期报表开始同步
+2018-05-04 02:29:59.881 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-3:131]产品组合同步-PARENT任务执行结束
+2018-05-04 02:30:00.444 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-6:134]订单周期报表同步结束
+2018-05-04 02:30:01.317 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-8:225]产品组合同步任务执行结束
+2018-05-04 02:30:04.110 [threadPoolTaskScheduler-7] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-7:220]邮件收取任务执行结束
+2018-05-04 02:30:06.028 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-5:133]订单报表同步结束
+2018-05-04 02:31:17.797 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-10:263]barcode同步任务执行结束
+2018-05-04 03:00:00.024 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-10:263]barcode同步任务开始执行
+2018-05-04 03:00:00.024 [threadPoolTaskScheduler-7] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-7:220]邮件收取任务开始执行
+2018-05-04 03:00:00.025 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-3:131]产品组合同步任务开始执行
+2018-05-04 03:00:00.025 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-2:129]订单报表开始同步
+2018-05-04 03:00:00.025 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-6:134]产品组合同步-PARENT任务开始执行
+2018-05-04 03:00:00.027 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-8:225]订单周期报表开始同步
+2018-05-04 03:00:00.037 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-6:134]产品组合同步-PARENT任务执行结束
+2018-05-04 03:00:00.487 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-8:225]订单周期报表同步结束
+2018-05-04 03:00:01.470 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-3:131]产品组合同步任务执行结束
+2018-05-04 03:00:03.969 [threadPoolTaskScheduler-7] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-7:220]邮件收取任务执行结束
+2018-05-04 03:00:07.860 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-2:129]订单报表同步结束
+2018-05-04 03:01:14.190 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-10:263]barcode同步任务执行结束
+2018-05-04 03:30:00.236 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-10:263]barcode同步任务开始执行
+2018-05-04 03:30:00.237 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-6:134]邮件收取任务开始执行
+2018-05-04 03:30:00.237 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-9:251]订单报表开始同步
+2018-05-04 03:30:00.238 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-8:225]订单周期报表开始同步
+2018-05-04 03:30:00.238 [threadPoolTaskScheduler-1] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-1:127]产品组合同步-PARENT任务开始执行
+2018-05-04 03:30:00.238 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-3:131]产品组合同步任务开始执行
+2018-05-04 03:30:00.277 [threadPoolTaskScheduler-1] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-1:127]产品组合同步-PARENT任务执行结束
+2018-05-04 03:30:00.824 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-8:225]订单周期报表同步结束
+2018-05-04 03:30:01.751 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-3:131]产品组合同步任务执行结束
+2018-05-04 03:30:04.230 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-6:134]邮件收取任务执行结束
+2018-05-04 03:30:05.705 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-9:251]订单报表同步结束
+2018-05-04 03:31:15.534 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-10:263]barcode同步任务执行结束
+2018-05-04 03:43:33.019 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_combined_parent_sync][restartedMain:360]
+2018-05-04 03:43:33.099 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_combined_sync][restartedMain:360]
+2018-05-04 03:43:33.803 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][sta_orders_cycle_sync][restartedMain:360]
+2018-05-04 03:43:33.870 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_barcode_sync][restartedMain:360]
+2018-05-04 03:43:34.636 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][sta_order_sync][restartedMain:360]
+2018-05-04 03:43:34.699 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_sync][restartedMain:360]
+2018-05-04 04:00:00.015 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-2:371]邮件收取任务开始执行
+2018-05-04 04:00:00.015 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-3:372]产品组合同步-PARENT任务开始执行
+2018-05-04 04:00:00.017 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-5:374]产品组合同步任务开始执行
+2018-05-04 04:00:00.014 [threadPoolTaskScheduler-1] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-1:370]订单周期报表开始同步
+2018-05-04 04:00:00.017 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-4:373]barcode同步任务开始执行
+2018-05-04 04:00:00.029 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-6:375]订单报表开始同步
+2018-05-04 04:00:00.067 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-3:372]产品组合同步-PARENT任务执行结束
+2018-05-04 04:00:00.477 [threadPoolTaskScheduler-1] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-1:370]订单周期报表同步结束
+2018-05-04 04:00:01.572 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-5:374]产品组合同步任务执行结束
+2018-05-04 04:00:04.142 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-2:371]邮件收取任务执行结束
+2018-05-04 04:00:08.574 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-6:375]订单报表同步结束
+2018-05-04 04:01:16.365 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-4:373]barcode同步任务执行结束
+2018-05-04 04:30:00.019 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-4:373]barcode同步任务开始执行
+2018-05-04 04:30:00.020 [threadPoolTaskScheduler-7] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-7:396]订单报表开始同步
+2018-05-04 04:30:00.020 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-8:397]邮件收取任务开始执行
+2018-05-04 04:30:00.021 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-3:372]产品组合同步任务开始执行
+2018-05-04 04:30:00.021 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-9:399]订单周期报表开始同步
+2018-05-04 04:30:00.021 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-2:371]产品组合同步-PARENT任务开始执行
+2018-05-04 04:30:00.030 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-2:371]产品组合同步-PARENT任务执行结束
+2018-05-04 04:30:00.455 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-9:399]订单周期报表同步结束
+2018-05-04 04:30:01.509 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-3:372]产品组合同步任务执行结束
+2018-05-04 04:30:04.346 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-8:397]邮件收取任务执行结束
+2018-05-04 04:30:08.903 [threadPoolTaskScheduler-7] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-7:396]订单报表同步结束
+2018-05-04 04:31:15.624 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-4:373]barcode同步任务执行结束
+2018-05-04 05:00:00.023 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-4:373]barcode同步任务开始执行
+2018-05-04 05:00:00.024 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-8:397]订单报表开始同步
+2018-05-04 05:00:00.024 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-5:374]产品组合同步-PARENT任务开始执行
+2018-05-04 05:00:00.024 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-10:400]订单周期报表开始同步
+2018-05-04 05:00:00.024 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-2:371]邮件收取任务开始执行
+2018-05-04 05:00:00.024 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-9:399]产品组合同步任务开始执行
+2018-05-04 05:00:00.032 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-5:374]产品组合同步-PARENT任务执行结束
+2018-05-04 05:00:00.494 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-10:400]订单周期报表同步结束
+2018-05-04 05:00:01.385 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-9:399]产品组合同步任务执行结束
+2018-05-04 05:00:04.028 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-2:371]邮件收取任务执行结束
+2018-05-04 05:00:09.432 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-8:397]订单报表同步结束
+2018-05-04 05:01:14.427 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-4:373]barcode同步任务执行结束
+2018-05-04 05:02:05.023 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_combined_sync][restartedMain:441]
+2018-05-04 05:02:05.085 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_sync][restartedMain:441]
+2018-05-04 05:02:05.682 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][sta_orders_cycle_sync][restartedMain:441]
+2018-05-04 05:02:05.744 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_barcode_sync][restartedMain:441]
+2018-05-04 05:02:06.466 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][sta_order_sync][restartedMain:441]
+2018-05-04 05:02:06.524 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_combined_parent_sync][restartedMain:441]
+2018-05-04 05:30:00.019 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-4:454]产品组合同步任务开始执行
+2018-05-04 05:30:00.019 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-2:452]barcode同步任务开始执行
+2018-05-04 05:30:00.020 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-5:455]产品组合同步-PARENT任务开始执行
+2018-05-04 05:30:00.019 [threadPoolTaskScheduler-1] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-1:451]订单报表开始同步
+2018-05-04 05:30:00.038 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-6:456]邮件收取任务开始执行
+2018-05-04 05:30:00.019 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-3:453]订单周期报表开始同步
+2018-05-04 05:30:00.113 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-5:455]产品组合同步-PARENT任务执行结束
+2018-05-04 05:30:00.520 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-3:453]订单周期报表同步结束
+2018-05-04 05:30:01.488 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-4:454]产品组合同步任务执行结束
+2018-05-04 05:30:03.945 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-6:456]邮件收取任务执行结束
+2018-05-04 05:30:08.560 [threadPoolTaskScheduler-1] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-1:451]订单报表同步结束
+2018-05-04 05:31:13.797 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-2:452]barcode同步任务执行结束
+2018-05-04 05:46:06.554 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_sync][restartedMain:497]
+2018-05-04 05:46:07.655 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][sta_orders_cycle_sync][restartedMain:497]
+2018-05-04 05:46:08.878 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][sta_order_sync][restartedMain:497]
+2018-05-04 05:46:09.055 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_barcode_sync][restartedMain:497]
+2018-05-04 05:46:09.138 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_combined_parent_sync][restartedMain:497]
+2018-05-04 05:46:09.279 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_combined_sync][restartedMain:497]
+2018-05-04 06:00:00.011 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-3:509]barcode同步任务开始执行
+2018-05-04 06:00:00.012 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-6:512]产品组合同步任务开始执行
+2018-05-04 06:00:00.011 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-4:510]订单周期报表开始同步
+2018-05-04 06:00:00.011 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-5:511]产品组合同步-PARENT任务开始执行
+2018-05-04 06:00:00.011 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-2:508]订单报表开始同步
+2018-05-04 06:00:00.011 [threadPoolTaskScheduler-1] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-1:507]邮件收取任务开始执行
+2018-05-04 06:00:00.059 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-5:511]产品组合同步-PARENT任务执行结束
+2018-05-04 06:00:00.394 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-4:510]订单周期报表同步结束
+2018-05-04 06:00:01.624 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-6:512]产品组合同步任务执行结束
+2018-05-04 06:00:04.208 [threadPoolTaskScheduler-1] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-1:507]邮件收取任务执行结束
+2018-05-04 06:00:08.178 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-2:508]订单报表同步结束
+2018-05-04 06:01:13.981 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-3:509]barcode同步任务执行结束
+2018-05-04 06:30:00.033 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-3:509]barcode同步任务开始执行
+2018-05-04 06:30:00.033 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-8:534]订单报表开始同步
+2018-05-04 06:30:00.033 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-5:511]产品组合同步任务开始执行
+2018-05-04 06:30:00.033 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-6:512]邮件收取任务开始执行
+2018-05-04 06:30:00.034 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-9:536]产品组合同步-PARENT任务开始执行
+2018-05-04 06:30:00.034 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-10:537]订单周期报表开始同步
+2018-05-04 06:30:00.168 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-9:536]产品组合同步-PARENT任务执行结束
+2018-05-04 06:30:00.628 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-10:537]订单周期报表同步结束
+2018-05-04 06:30:01.440 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-5:511]产品组合同步任务执行结束
+2018-05-04 06:30:05.228 [threadPoolTaskScheduler-6] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-6:512]邮件收取任务执行结束
+2018-05-04 06:30:05.782 [threadPoolTaskScheduler-8] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-8:534]订单报表同步结束
+2018-05-04 06:31:17.430 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-3:509]barcode同步任务执行结束
+2018-05-04 07:00:00.024 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-9:536]产品组合同步任务开始执行
+2018-05-04 07:00:00.024 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-5:511]邮件收取任务开始执行
+2018-05-04 07:00:00.024 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-2:508]产品组合同步-PARENT任务开始执行
+2018-05-04 07:00:00.024 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-3:509]barcode同步任务开始执行
+2018-05-04 07:00:00.024 [threadPoolTaskScheduler-7] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-7:533]订单周期报表开始同步
+2018-05-04 07:00:00.024 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-10:537]订单报表开始同步
+2018-05-04 07:00:00.056 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_parent_sync][threadPoolTaskScheduler-2:508]产品组合同步-PARENT任务执行结束
+2018-05-04 07:00:00.692 [threadPoolTaskScheduler-7] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_orders_cycle_sync][threadPoolTaskScheduler-7:533]订单周期报表同步结束
+2018-05-04 07:00:01.465 [threadPoolTaskScheduler-9] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_combined_sync][threadPoolTaskScheduler-9:536]产品组合同步任务执行结束
+2018-05-04 07:00:03.977 [threadPoolTaskScheduler-5] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-5:511]邮件收取任务执行结束
+2018-05-04 07:00:06.308 [threadPoolTaskScheduler-10] INFO  c.n.p.j.s.AbstractJob - [Job run start][sta_order_sync][threadPoolTaskScheduler-10:537]订单报表同步结束
+2018-05-04 07:01:14.344 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_barcode_sync][threadPoolTaskScheduler-3:509]barcode同步任务执行结束
+2018-05-04 07:25:15.607 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_sync][restartedMain:23]
+2018-05-04 07:25:16.222 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][sta_order_sync][restartedMain:23]
+2018-05-04 07:25:16.346 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_barcode_sync][restartedMain:23]
+2018-05-04 07:25:16.410 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_combined_parent_sync][restartedMain:23]
+2018-05-04 07:25:17.145 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][sta_orders_cycle_sync][restartedMain:23]
+2018-05-04 07:25:17.206 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_combined_sync][restartedMain:23]

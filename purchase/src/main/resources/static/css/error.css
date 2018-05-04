@@ -1,0 +1,26 @@
+@CHARSET "UTF-8";
+.page {margin: 5px auto; width: 1000px;}
+
+.license {background-color: #efefef; padding: 20px;}
+.license label{color: black; display: block; font-size: 14px; font-weight: bold; padding-top: 6px;}
+.license label span{font-weight: normal;}
+.license div div{clean:both;}
+.license .header{font-size: 16px;}
+.license .header .title{ border-bottom: 1px solid; display: block; font-size: 34px; height: 50px; margin-bottom: 5px; padding-bottom: 5px; top: 5px;}
+.license .header .title img{float: left; margin-right: 15px; max-width: 230px;}
+.license .header .title span{display: block; padding-top: 8px;}
+.license .header .promise{color: red; padding-bottom: 5px;}
+.license .header .ad{color: blue; padding-bottom: 20px;}
+.license .infor{border-bottom: 1px solid; margin-bottom: 10px; padding-bottom: 5px;}
+.license .infor div{font-size: 14px; padding: 0 24px;}
+.license .infor div p{text-indent: 2em; text-transform : capitalize}
+.license .infor div ul{list-style:none; list-style: outside none none; padding-left: 2em;}
+.license .infor div ul li{padding: 5px 0;}
+.license .content{}
+.license .content div{}
+.license .content div ol{font-size: 14px; margin: 2px 0;}
+.license .content div ol li{padding: 2px 0;}
+.license .content input{ clean:both; border: 2px solid red; margin: 5px 20px; width: 250px;}
+.license .content textarea{ clean:both; border: 2px solid blue; margin: 5px 20px; width: 930px; height:200px;}
+.license .copyright {border-top: 1px solid; font-size: 12px; margin-top: 15px; padding-top: 5px;}
+.license .company {display: block; font-weight: bold; height: 50px; padding: 5px 0; text-align: right;}

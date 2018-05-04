@@ -1,0 +1,192 @@
+<script src="../static/js/view/core/dialog/BuyerDialog.js"></script>
+<div th:fragment="head (title)">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <title th:text="${title}"></title>
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+    
+    <script type="text/javascript" th:inline="javascript">
+    /*<![CDATA[*/  var __ctxPath=[[@{/}]]; /*]]>*/
+	</script>
+
+    
+    <script type="text/javascript" th:src="@{/js/lib/ext/bootstrap.js}" charset="utf-8"></script>
+	<script type="text/javascript" th:src="@{${libsrc}}" charset="utf-8"></script>
+	<script type="text/javascript" th:src="@{${langsrc}}" charset="utf-8"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/function.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/AppUtil.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/Override.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/Extends.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/ScriptMgr.js}"></script>
+	
+	<link id="theme" rel="stylesheet" th:href="@{/js/lib/ext/resources/css/ext-all.css}" type="text/css" />
+	<link rel="stylesheet" th:href="@{/css/style.css}" type="text/css" />
+	<link rel="stylesheet" th:href="@{/css/loading.css}" type="text/css" />
+	
+	<script type="text/javascript" th:src="@{/js/lib/jquery/jquery.min.js}" charset="utf-8"></script>
+
+	<script type="text/javascript" th:src="@{/js/lib/ext/ux/TreePicker.js}"></script>
+	<script type="text/javascript" th:src="@{/js/lib/ext/ux/GroupTabPanel.js}"></script>
+	<script type="text/javascript" th:src="@{/js/lib/ext/ux/GroupTabRenderer.js}"></script>
+	<script type="text/javascript" th:src="@{/js/lib/ext/ux/TabCloseMenu.js}"></script>
+	<script type="text/javascript" th:src="@{/js/lib/ext/ux/Toast.js}"></script>
+	<script type="text/javascript" th:src="@{/js/lib/ext/ux/DateTimeField.js}"></script>
+	<script type="text/javascript" th:src="@{/js/lib/ext/ux/RowExpander.js}"></script>
+	<script type="text/javascript" th:src="@{/js/lib/ext/ux/IFrame.js}"></script>
+	<script type="text/javascript" th:src="@{/js/lib/ext/ux/Portal.js}"></script>
+	<script type="text/javascript" th:src="@{/js/lib/ext/ux/grid/RowActions.js}"></script>
+
+	<script type="text/javascript" th:src="@{/js/view/App.import.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/App.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/IndexPage.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/flow/FlowWindow.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/flow/FlowViewTabs.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/DepDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/ArchivesHistoryDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/UserDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/RoleDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/VendorDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/ServiceProviderDialog.js}"></script>
+    <script type="text/javascript" th:src="@{/js/view/core/dialog/ProductCategoryDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/VendorCategoryDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/ServiceProviderCategoryDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/ProductDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/FlowFeeRegistrationDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/FilesDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/ImagesDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/ContactsDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/OrderDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/OrderShippingPlanDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/AsnDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/PackingListDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/ProductCertificationDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/ChargeItemDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/BuyerDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/FeeRegistrationDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/MyTemplateDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/EmailSendDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/ReportsDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/FlowOtherDialog.js}"></script>
+	<script type="text/javascript" th:src="@{js/view/core/dialog/OtherProductDialog.js}"></script>
+	<script type="text/javascript" th:src="@{js/view/core/dialog/TariffDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/HelpDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/FilesPreviewDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/dialog/BalanceRefundDialog.js}"></script>
+	<script type="text/javascript" th:src="@{/js/lib/ckeditor/ckeditor.js}"></script>
+
+    <script type="text/javascript" th:src="@{/js/view/desktop/ReportOrderInspectionForm.js}"></script>
+    <script type="text/javascript" th:src="@{/js/view/desktop/ReportProductAnalysisForm.js}"></script>
+    <script type="text/javascript" th:src="@{/js/view/desktop/ReportProductComplianceForm.js}"></script>
+    <script type="text/javascript" th:src="@{/js/view/desktop/ReportProductForecastForm.js}"></script>
+    <script type="text/javascript" th:src="@{/js/view/desktop/ReportProductSummaryForm.js}"></script>
+    <script type="text/javascript" th:src="@{/js/view/desktop/ReportSampleInspectionForm.js}"></script>
+    <script type="text/javascript" th:src="@{/js/view/desktop/ReportSupplierInvestigationForm.js}"></script>
+
+	<script type="text/javascript" th:inline="javascript">
+	/*<![CDATA[*/
+	   var userInfo=[[${userJson}]];
+	   
+	   Ext.onReady(function(){
+	  	   	  var storeTheme=getCookie('theme');
+	  	   	  if(storeTheme==null || storeTheme==''){
+	  		   	  storeTheme='ext-all';
+	  	   	  }
+	  	    Ext.util.CSS.swapStyleSheet("theme", __ctxPath+"js/lib/ext/resources/css/"+storeTheme+".css");
+		  	
+	        window.onbeforeunload = function() {			    				    	
+	    	    var isout=Ext.get("logout").value;
+			    window.unloadTimer = setInterval("Ext.get('logout').value='';clearInterval(window.unloadTimer);",100);				    
+			    if(isout=="isout"){
+					  window.onunload = function() {App.runOnUnload();clearInterval(window.unloadTimer);};					 
+				}else{							
+					  window.onunload = function() {clearInterval(window.unloadTimer);};					  
+				}		
+			    return '你确定吗？';
+		   };
+		   
+	   });
+	/*]]>*/
+    </script>
+</div>
+
+<div th:fragment="login (title)">
+	<meta charset="UTF-8" />
+    <title th:text="${title}"></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+	<script type="text/javascript" th:inline="javascript">
+		/*<![CDATA[*/ var __ctxPath=[[@{/}]]; /*]]>*/
+	</script>
+
+	<script type="text/javascript" th:src="@{/js/lib/ext/bootstrap.js}" charset="utf-8"></script>
+	<script type="text/javascript" th:src="@{${libsrc}}" charset="utf-8"></script>
+	<script type="text/javascript" th:src="@{/js/lib/jquery/jquery.min.js}" charset="utf-8"></script>
+	<script type="text/javascript" th:src="@{/js/view/core/AppUtil.js}"></script>
+	<script type="text/javascript" th:src="@{/js/view/App.LoginWin.js}"></script>
+	<link rel="stylesheet" th:href="@{/css/style.css}" type="text/css" />
+	<link rel="stylesheet" th:href="@{/css/loading.css}" type="text/css" />
+	<link rel="stylesheet" th:href="@{/js/lib/ext/resources/css/ext-all.css}" type="text/css" />
+	
+	<script type="text/javascript" th:inline="javascript" charset="utf-8">
+	/*<![CDATA[*/
+		Ext.onReady(function(){
+			new App.LoginWin({}).show();
+		});
+	/*]]>*/
+	</script>
+</div>
+
+
+<div th:fragment="subHead (title)">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title th:text="${title}"></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+	<script type="text/javascript" th:inline="javascript">
+        /*<![CDATA[*/
+        	var __ctxPath=[[@{/}]];
+			var userInfo=[[${userJson}]];
+        /*]]>*/
+	</script>
+	<script type="text/javascript" th:src="@{/js/lib/ext/bootstrap.js}" charset="utf-8"></script>
+	<script type="text/javascript" th:src="@{/js/lib/jquery/jquery.min.js}" charset="utf-8"></script>
+	<script type="text/javascript" th:src="@{/js/lib/swf/flexpaper_flash.js}" charset="utf-8"></script>
+
+	<script type="text/javascript" th:inline="javascript">
+        /*<![CDATA[*/
+		jQuery(document).ready(function(){
+			var mark = [[${mark}]];
+			if (mark == "no") {
+				jQuery("#viewerPlaceHolder").hide();
+				alert("预览文件出错！");
+			}
+		});
+
+		/*]]>*/
+	</script>
+	<style>
+		.preview-body {text-align: center; display: block; padding: 0px; margin: 0px; width: 100%; height: 100%;}
+	</style>
+</div>
+
+<div th:fragment="subHeadForNothing (title)">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title th:text="${title}"></title>
+	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" />
+	<script type="text/javascript" th:src="@{/js/lib/jquery/jquery.min.js}" charset="utf-8"></script>
+	<script type="text/javascript" th:inline="javascript">
+        /*<![CDATA[*/
+        jQuery(document).ready(function(){
+            jQuery("#viewerPlaceHolder").css('height', jQuery(window).height()-20);
+            jQuery("#viewerPlaceHolder p").css('line-height', jQuery(window).height()-40 + 'px');
+            jQuery('body').css('margin', 0);
+
+            jQuery(window).resize(function() {
+                jQuery("#viewerPlaceHolder").css('height', jQuery(window).height()-20);
+                jQuery("#viewerPlaceHolder p").css('line-height', jQuery(window).height()-40 + 'px');
+            });
+        });
+
+        /*]]>*/
+	</script>
+	<style>
+		.preview-body {text-align: center;}
+	</style>
+</div>

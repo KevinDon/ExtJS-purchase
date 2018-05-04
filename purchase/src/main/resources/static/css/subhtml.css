@@ -1,0 +1,13 @@
+@CHARSET "UTF-8";
+*{margin:0; padding: 0;}
+body, html {height: 100%; font-size: 12px; margin:0; padding: 0;}
+div, dl, dt, dd, ul, ol, li, h1, h2, h3, h4, h5, h6, pre, code, form, fieldset, legend, input, textarea, p, blockquote, th, td { margin: 0; padding: 0;}
+
+
+.clear { clear: both; margin: 0; padding: 0; border: 0; }
+
+.home-role-perview{margin: 2px 10px;}
+.home-role-perview label{ float: left; font-size: 14px; margin-top: 5px;}
+.home-role-perview ul{clear: both; float: left; list-style: outside none none; padding-left: 5px; width: 100%;}
+.home-role-perview ul li{ float: left; padding-right: 10px; }
+.home-role-perview description {}

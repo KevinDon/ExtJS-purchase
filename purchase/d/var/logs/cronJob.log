@@ -1,0 +1,19 @@
+2018-01-17 07:02:21.159 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_order][restartedMain:23]
+2018-01-17 07:02:21.171 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_email_receive][restartedMain:23]
+2018-01-17 07:02:21.182 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_sync][restartedMain:23]
+2018-01-17 07:07:59.172 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_email_receive][restartedMain:21]
+2018-01-17 07:07:59.182 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_order][restartedMain:21]
+2018-01-17 07:07:59.191 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_sync][restartedMain:21]
+2018-01-17 07:30:00.010 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_email_receive][threadPoolTaskScheduler-2:72]邮件收取任务开始执行
+2018-01-17 07:30:00.010 [threadPoolTaskScheduler-1] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_order][threadPoolTaskScheduler-1:71]订单支付提醒任务开始执行
+2018-01-17 07:30:00.012 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-3:73]邮件收取任务开始执行
+2018-01-17 07:30:00.029 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run end][coj_email_receive][threadPoolTaskScheduler-2:72]邮件收取任务执行结束
+2018-01-17 07:30:00.034 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-3:73]邮件收取任务执行结束
+2018-01-17 08:00:00.246 [threadPoolTaskScheduler-2] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_order][threadPoolTaskScheduler-2:72]订单支付提醒任务开始执行
+2018-01-17 08:00:00.246 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_email_receive][threadPoolTaskScheduler-4:148]邮件收取任务开始执行
+2018-01-17 08:00:00.246 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-3:73]邮件收取任务开始执行
+2018-01-17 08:00:00.254 [threadPoolTaskScheduler-4] INFO  c.n.p.j.s.AbstractJob - [Job run end][coj_email_receive][threadPoolTaskScheduler-4:148]邮件收取任务执行结束
+2018-01-17 08:00:00.255 [threadPoolTaskScheduler-3] INFO  c.n.p.j.s.AbstractJob - [Job run start][coj_product_sync][threadPoolTaskScheduler-3:73]邮件收取任务执行结束
+2018-01-17 08:22:18.753 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_product_sync][restartedMain:17]
+2018-01-17 08:22:18.762 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_order][restartedMain:17]
+2018-01-17 08:22:18.771 [restartedMain] INFO  c.n.p.j.s.AbstractJob - [Job start][coj_email_receive][restartedMain:17]

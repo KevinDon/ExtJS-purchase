@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:shiro="http://www.pollix.at/thymeleaf/shiro">
+<head th:include="public :: head (首页)"></head>
+
+<!--<body oncontextmenu="javascript: return false">-->
+<body>
+	<div id="app-header">
+		<div id="header-left">
+			<img id ="CompanyLogo" th:src="@{/images/mylogo.png}" height="58" style="max-width:230px;"/>
+		</div>
+		<div id="header-main">
+			<div id="header-info">
+				<a href="#" onClick="App.clickTopTab('AppHome')" style="text-indent:25px; padding-left: 28px" class="menu-desktop" th:text="${lang eq 'zh_CN'} ? '我的桌面': 'My Home'"></a>
+				<a href="#" onClick="App.clickTopTab('MessageView')" style="text-indent:25px; padding-left: 28px" class="menu-message" th:text="${lang eq 'zh_CN'} ? '我的消息': 'My Message'"></a> (<span id="myCountMessageNew">0</span>)
+				<a href="#" onClick="App.clickTopTab('EmailInboxView')" style="text-indent:25px; padding-left: 28px" class="menu-message" th:text="${lang eq 'zh_CN'} ? '我的邮件': 'My Email'"></a> (<span id="myCountEmailNew">0</span>)
+
+			</div>
+			<div id="header-topnav"></div>
+		</div>
+		<div id="header-right">
+			<div id="setting">
+				&nbsp; <span  th:text="${lang eq 'zh_CN'} ? '欢迎您': 'Welcome'"></span>：<span th:text="${user.enName}"></span> (<span th:text="${lang eq 'zh_CN'}? ${user.cnName}: ${user.enName}"></span>) &nbsp; [ <a href="javascript:;" onclick = "App.Logout()" th:text="${lang eq 'zh_CN'} ? '注销': 'Logout'"></a>
+				 | <a href="#" onClick="App.clickTopTab('AccountUserProfileForm')" th:text="${lang eq 'zh_CN'} ? '设置': 'Profile'"></a>
+				| <a href="#" onclick = "new HelpDialog({}).show()" th:text="${lang eq 'zh_CN'} ? '帮助': 'Help'"></a> ]
+			</div>
+			<div id="searchFormDisplay" style="width:260px;height:30px;float:right;padding-top:10px;">&nbsp;</div>
+		</div>
+	</div>
+	<input type="hidden" id="logout"/>
+</body>
+</html>

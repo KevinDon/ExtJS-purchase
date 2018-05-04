@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org" xmlns:shiro="http://www.pollix.at/thymeleaf/shiro">
+<head th:include="public :: subHead (文件预览-内页)"></head>
+
+<body>
+    <div class="preview-body">
+        <a id="viewerPlaceHolder">
+            <img th:src="${fileUrl}" th:alt="${fileName}" />
+        </a>
+    </div>
+</body>
+</html>
